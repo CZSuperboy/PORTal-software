@@ -19,10 +19,13 @@ Insert your pi 4's SD card into your PC. Open up SD card formatter and select yo
 **Step 3**
 
 Power on your raspberry pi. It will boot straight into Raspbian, due to the lack of the boot manager NOOBS (which is intentional). Once it's started, configure your settings. The default popup that walks you through the process will not pop up, this being a preconfigured image, so you will have to do things a little differently.
+     
      - Go to "Appearance and personlization" and go to Display. It will be set to the lowest resolution by default, so set your screen resolution to match your TV/monitor.
+     
      - Open up a command promptand type "sudo passwd". The default password is "raspberry", so type that in first. Next, type in your desire password. For security reasons, it
        won't let you see what you are typing. Finally, it will ask you to type in your password once more. Once you've done that, you're good to go password-wise!
-     - Whilst in the command prompt, type "sudo raspi-config". Configure the settings you want to change, and then select "Exit".
+    
+    - Whilst in the command prompt, type "sudo raspi-config". Configure the settings you want to change, and then select "Exit".
  
 That's it! Your system is set up!
 
