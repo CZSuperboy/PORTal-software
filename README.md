@@ -26,6 +26,6 @@ Power on your raspberry pi. It will boot straight into Raspbian, due to the lack
  
 That's it! Your system is set up!
 
-###**Now what?**
+**Now what?**
 
 The PORTal comes pre-loaded with Retropie (modified version of EmulationStation tailored to the Raspberry Pi), Dolphn Emulator (GC/Wii emulator, though only GC works at this time), Chromium (a web browser), a 64-bit CHROOT (required for Dolphin), Anbox (for android apps), and much more! Matchbox keyboard is included, but you can plug in a physical keyboard if it better suits your fancy. I also left room for additional programs and games, should you need them. Finally, this image containes NO ROMS OF OFFICIAL GAMES!!! Such practice would be considered piracy, and the last thing I need is a cease-and-desist from Nintendo. Homebrew games and apps are different and may be included with future releases.
